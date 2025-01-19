@@ -1,0 +1,127 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "0be96024-9d02-430f-aeb4-07f5cd93af40")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 57.15 76.2)
+		(size 35.56 22.86)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "18c80068-993b-49a8-807b-7a7de4ef6740")
+		(property "Sheetname" "Power Supply"
+			(at 57.15 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 57.15 99.6446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Saunasensor"
+				(path "/0be96024-9d02-430f-aeb4-07f5cd93af40"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 102.87 41.91)
+		(size 35.56 22.86)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b1266a40-79d0-4862-ab7c-b4a6ecd7b4b5")
+		(property "Sheetname" "Sensors"
+			(at 102.87 41.1984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Architecture.kicad_sch"
+			(at 102.87 65.3546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Saunasensor"
+				(path "/0be96024-9d02-430f-aeb4-07f5cd93af40"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 58.42 41.91)
+		(size 35.56 22.86)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ea077b5e-c76d-49e4-9f1b-8926fb5a523c")
+		(property "Sheetname" "MCU"
+			(at 58.42 41.1984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 58.42 65.3546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Saunasensor"
+				(path "/0be96024-9d02-430f-aeb4-07f5cd93af40"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
