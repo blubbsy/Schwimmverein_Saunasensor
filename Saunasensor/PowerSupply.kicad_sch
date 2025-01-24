@@ -1764,7 +1764,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 65.0748 59.69 0)
 			(effects
 				(font
@@ -1901,7 +1901,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SON40P220X200X80-11N"
+		(property "Footprint" "lib:SON40P220X200X80-11N"
 			(at 156.21 143.18 0)
 			(effects
 				(font
@@ -2321,7 +2321,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 214.9348 57.15 0)
 			(effects
 				(font
@@ -2391,7 +2391,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 188.722 59.69 90)
 			(effects
 				(font
@@ -2461,7 +2461,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 181.102 59.69 90)
 			(effects
 				(font
@@ -2532,7 +2532,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 230.1748 57.15 0)
 			(effects
 				(font
@@ -2601,7 +2601,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_CK_PTS125Sx43PSMTR"
 			(at 173.99 67.31 0)
 			(effects
 				(font
@@ -2805,7 +2805,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 76.5048 59.69 0)
 			(effects
 				(font
@@ -2942,7 +2942,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 203.5048 57.15 0)
 			(effects
 				(font
@@ -3012,7 +3012,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 122.8852 45.72 0)
 			(effects
 				(font

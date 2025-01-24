@@ -2,7 +2,7 @@
 	(version 20231120)
 	(generator "eeschema")
 	(generator_version "8.0")
-	(uuid "9c2b208d-7fee-4df4-9ada-89a994ac47ef")
+	(uuid "c9352143-a3c6-42b2-be5e-df914e122de7")
 	(paper "A4")
 	(lib_symbols
 		(symbol "PCM_Espressif:ESP32-C6-DevKitM-1"
