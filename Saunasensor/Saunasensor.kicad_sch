@@ -26,7 +26,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "untitled.kicad_sch"
+		(property "Sheetfile" "PowerSupply.kicad_sch"
 			(at 57.15 99.6446 0)
 			(effects
 				(font
@@ -39,6 +39,44 @@
 			(project "Saunasensor"
 				(path "/0be96024-9d02-430f-aeb4-07f5cd93af40"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 58.42 41.91)
+		(size 34.29 22.86)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ade97d93-f11c-4306-b3c8-20710fc37ed1")
+		(property "Sheetname" "MCU"
+			(at 58.42 41.1984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 58.42 65.3546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Saunasensor"
+				(path "/0be96024-9d02-430f-aeb4-07f5cd93af40"
+					(page "4")
 				)
 			)
 		)
@@ -77,44 +115,6 @@
 			(project "Saunasensor"
 				(path "/0be96024-9d02-430f-aeb4-07f5cd93af40"
 					(page "2")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 58.42 41.91)
-		(size 35.56 22.86)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "ea077b5e-c76d-49e4-9f1b-8926fb5a523c")
-		(property "Sheetname" "MCU"
-			(at 58.42 41.1984 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "untitled.kicad_sch"
-			(at 58.42 65.3546 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "Saunasensor"
-				(path "/0be96024-9d02-430f-aeb4-07f5cd93af40"
-					(page "4")
 				)
 			)
 		)
